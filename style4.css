@@ -42,7 +42,7 @@ nav{
   display: inline;
   color: white;
   font-size: 12px;
-  font-family: Ariel;
+  font-family: Arial;
 }
 
 .clearfix::after {
